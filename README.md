@@ -1,1 +1,1 @@
-# CMPE_257_Machine_Learning_Assignments
+# CMPE 257 Machine Learning Assignments
